@@ -13,7 +13,6 @@ from torch_geometric.utils import coalesce
 
 
 def seed_everything(seed: int):
-    """모든 난수 생성기를 고정하여 결정론적인 실행을 보장하는 함수"""
     random.seed(seed)
     np.random.seed(seed)
     torch.manual_seed(seed)
