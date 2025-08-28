@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/piglet-anonymous/PiGLeT.git
+git clone https://github.com/snudatalab/PiGLeT.git
 cd PiGLeT
 ```
 
