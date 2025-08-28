@@ -68,7 +68,7 @@ Please cite the following paper if you use our code:
 @inproceedings{park2025piglet,
   title={PiGLeT: Probabilistic Message Passing for Semi-supervised Link Sign Prediction},
   author={Park, Ka Hyun and Kim, Junghun and Jung, Jinhong and Kang, U},
-  booktitle={2024 IEEE International Conference on Data Mining (ICDM)},
+  booktitle={2025 IEEE International Conference on Data Mining (ICDM)},
   year={2025},
   organization={IEEE}
 }
