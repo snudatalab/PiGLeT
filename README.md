@@ -69,6 +69,8 @@ Please cite the following paper if you use our code:
   author={Park, Ka Hyun and Kim, Junghun and Jung, Jinhong and Kang, U},
   booktitle={2025 IEEE International Conference on Data Mining (ICDM)},
   year={2025},
-  organization={IEEE}
+  organization={IEEE},
+  doi={10.1109/ICDM65498.2025.00158}
 }
+  
 ```
