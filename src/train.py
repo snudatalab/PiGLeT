@@ -1,3 +1,20 @@
+"""
+PiGLeT: Probabilistic Message Passing for Semi-supervised Link Sign Prediction (ICDM 2025)
+
+Authors:
+- Ka Hyun Park (kahyun.park@snu.ac.kr), Seoul National University
+- Junghun Kim (bandalg97@snu.ac.kr), Seoul National University
+- Jinhong Jung (jinhong@ssu.ac.kr), Soongsil University
+- U Kang (ukang@snu.ac.kr), Seoul National University
+
+This software is free of charge under research purposes.
+
+For other purposes (e.g. commercial), please contact the authors.
+
+train.py
+    - codes for training and evaluating the model
+"""
+
 import torch
 import torch.nn.functional as F
 
